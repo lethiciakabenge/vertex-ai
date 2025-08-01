@@ -1,0 +1,8 @@
+{
+  "name": "demo",
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
